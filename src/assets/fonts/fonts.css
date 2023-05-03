@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ShuHeiTi_Bold';
+  src:
+    url('./ShuHeiTi_Bold/Alimama_ShuHeiTi_Bold.ttf'),
+    url('./ShuHeiTi_Bold/Alimama_ShuHeiTi_Bold.woff') format('woff'),
+    url('./ShuHeiTi_Bold/Alimama_ShuHeiTi_Bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'PuHuiTi_Regular';
+  src: url('./PuHuiTi/Alibaba_PuHuiTi_2.0_55_Regular_55_Regular.ttf');
+}

@@ -5,3 +5,4 @@ declare module '*.module.less' {
   };
   export default classes;
 }
+// declare module '*.{png, jpg, jpeg, gif, svg}'
